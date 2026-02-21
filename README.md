@@ -18,3 +18,44 @@ Além da **velocidade instantânea** na abertura das 10h, desenvolvi o chamado "
 Para garantir **100% de sucesso**, a arquitetura evoluiu para o uso de múltiplos navegadores e janelas simultâneas, criando um sistema de processamento paralelo onde, se uma janela encontrasse um conflito de horário, a outra já teria garantido um restaurante alternativo. Eu também adaptei o código para funcionar no navegador **Kiwi Browser**, permitindo que colegas que não possuíam computador pudessem usar a ferramenta em seus celulares, **democratizando o acesso ao trabalho**.
 
 O impacto foi transformador. Minha renda semanal, que flutuava em torno de **R$ 700 a R$ 1.000**, saltou para uma média consistente de **R$ 1.712,87**, chegando a registrar um faturamento mensal de **R$ 7.368,69** entre **1 dezembro de 2025 e 1 janeiro de 2026**. Amigos que utilizaram o sistema conseguiram estabilidade financeira e até trocaram de moto. Este projeto prova que a programação é, acima de tudo, uma ferramenta para resolver problemas do mundo real através de insistência e lógica, **transformando a frustração em uma vantagem competitiva inalcançável por meios manuais**.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+**🎬 Demonstração Técnica: Modo Sniper em Ação**
+
+No vídeo abaixo, é possível observar o algoritmo a monitorizar a página em tempo real. Note que o sistema identifica a aparição da vaga "Jantinha do Mineiro", mas, através da lógica de filtragem seletiva, decide ignorá-la instantaneamente por não corresponder aos critérios de alta rentabilidade definidos. O motor permanece em "espera ativa" até localizar o alvo configurado.
+
+[![Demonstração do Modo Sniper](https://img.youtube.com/vi/8e6-FXYHfeI/0.jpg)](https://youtube.com/shorts/8e6-FXYHfeI)
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+**📺 Demonstração de Alta Disponibilidade (Multi-Window)**
+
+Neste vídeo, apresento o sistema operando em escala através de múltiplas instâncias e navegadores simultâneos. Esta estratégia de processamento paralelo garante 100% de sucesso, tratando conflitos de horário em milissegundos e assegurando a vaga no alvo secundário caso o primário apresente instabilidade.
+
+[![Demonstração Multi-Janelas](https://img.youtube.com/vi/An8xO2pqF18/0.jpg)](https://youtu.be/An8xO2pqF18)
+
+Este vídeo demonstra a robustez do Protocoloco High Speed Delivery Scheduler operando em ambiente de concorrência extrema (800+ entregadores para 87 vagas).
+
+**Demonstração de Alta Disponibilidade e Gestão de Concorrência**
+
+**Destaques da Operação no Vídeo:**
+
+**Gestão de Conflitos de Horário:** Note que, quando uma janela exibe erro de "vaga preenchida", isso é a prova do sucesso do algoritmo; significa que outra instância já assegurou o agendamento no mesmo milissegundo, gerando um conflito de horário que o sistema trata automaticamente para garantir que o entregador nunca fique sem escala.
+
+**Viabilidade Comercial (SaaS):** A robustez do sistema permitiu a criação de um serviço paralelo de agendamento para terceiros, onde usuários pagavam uma taxa semanal de R$ 200,00 para garantir suas escalas através desta tecnologia. **Gerando R$ 2500-3000 / mês extra**.
+
+**Arquitetura Paralela:** Execução simultânea em múltiplas janelas do Chrome para mitigar conflitos de horários e assegurar redundância de rede. 
+
+**Portabilidade Kiwi Browser:** Demonstração da adaptação do código para dispositivos móveis, permitindo que usuários sem computador compitam com a mesma eficiência. 
+
+**Inteligência de Rede:** O script processa a injeção de dados no DOM no milissegundo em que as vagas são disponibilizadas, sendo 100% mais rápido que a interação humana. 
+
+**Taxa de Sucesso Garantida:** O sistema só não captura o agendamento se o restaurante não abrir vagas. 
+
+**Impacto Real:** Solução que permitiu elevar o faturamento semanal de R$ 700 para mais de R$ 1.700, através da otimização inteligente de escala. 
+
+**Totalizando:** Renda geral por volta de **R$ 9.000 - 10.000 mensal**.
+
+*O motor foi adaptado também para dispositivos móveis via Kiwi Browser, garantindo portabilidade e acessibilidade para usuários sem acesso a computadores.*
