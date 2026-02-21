@@ -58,4 +58,20 @@ Este vídeo demonstra a robustez do Protocoloco High Speed Delivery Scheduler op
 
 **Totalizando:** Renda geral por volta de **R$ 9.000 - 10.000 mensal**.
 
+-----------------------------------------------------------------------------------------------------------------------------
+
+**📈 Resultados Financeiros e Validação de Mercado**
+
+Esta imagem apresenta o impacto direto da automação no faturamento real, consolidando o software como uma ferramenta de otimização de renda de alta performance.
+
+![Extrato de Ganhos](assets/Ganhos De Agendamento.jpeg)
+
+**Análise de Performance:**
+
+**Faturamento Mensal Consolidado:** R$ 7.368,69 (Período: 01/12/2025 - 01/01/2026), comprovando a estabilidade e consistência do sistema durante um mês inteiro de operação. 
+
+**Rendimento Semanal:** R$ 1.712,87, representando um aumento superior a 100% em comparação aos ganhos médios manuais (R$ 700 - R$ 1.000). 
+
+**Validação Comercial:** Além do uso pessoal, a robustez do código permitiu a operação de um serviço de agendamento para terceiros (SaaS), com uma taxa de adesão de R$ 200,00 semanais por usuário.
+
 *O motor foi adaptado também para dispositivos móveis via Kiwi Browser, garantindo portabilidade e acessibilidade para usuários sem acesso a computadores.*
