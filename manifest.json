@@ -1,0 +1,27 @@
+{
+    "manifest_version": 3,
+    "name": "Pasta Way   Palhoça   Macarrão e Massas",
+    "version": "41",
+    "description": "Pescador de Vagas - V41 (V13 Turbinada)",
+    "permissions": [
+        "tabs",
+        "storage"
+    ],
+    "host_permissions": [
+        "*://agenda.dn.app.br/*"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [
+        {
+            "matches": ["*://agenda.dn.app.br/Entregador/Agendamentos/*"],
+            "js": ["content.js"]
+        }
+    ],
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    }
+}
