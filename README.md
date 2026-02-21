@@ -64,7 +64,7 @@ Este vídeo demonstra a robustez do Protocoloco High Speed Delivery Scheduler op
 
 Esta imagem apresenta o impacto direto da automação no faturamento real, consolidando o software como uma ferramenta de otimização de renda de alta performance.
 
-![Extrato de Ganhos](assets/Ganhos De Agendamento.jpeg)
+![Extrato de Ganhos](assets/Ganhos%20De%20Agendamento.jpeg)
 
 **Análise de Performance:**
 
