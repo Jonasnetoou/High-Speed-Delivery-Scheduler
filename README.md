@@ -19,6 +19,32 @@ Para garantir **100% de sucesso**, a arquitetura evoluiu para o uso de múltiplo
 
 O impacto foi transformador. Minha renda semanal, que flutuava em torno de **R$ 700 a R$ 1.000**, saltou para uma média consistente de **R$ 1.712,87**, chegando a registrar um faturamento mensal de **R$ 7.368,69** entre **1 dezembro de 2025 e 1 janeiro de 2026**. Amigos que utilizaram o sistema conseguiram estabilidade financeira e até trocaram de moto. Este projeto prova que a programação é, acima de tudo, uma ferramenta para resolver problemas do mundo real através de insistência e lógica, **transformando a frustração em uma vantagem competitiva inalcançável por meios manuais**.
 
+
+---------------------------------------------------------------------------------------------------------------------------
+
+**⏳ O Cenário Anterior: O Processo Manual**
+
+Antes o agendamento dependia exclusivamente de esforço manual e rapidez visual. Como demonstrado nos vídeos abaixo, o processo era lento, passível de erros humanos e extremamente stressante devido à alta concorrência.
+
+**Desafios do Processo Manual:**
+
+**Velocidade de Reação:** Dependência total do tempo de resposta humano para localizar lojas e selecionar turnos num ambiente caótico.
+
+**Instabilidade Visual:** A necessidade de fazer scroll infinito para encontrar restaurantes que não seguiam uma ordem lógica, muitas vezes resultando na perda da vaga em segundos. 
+
+**Conflitos de Horário:** Dificuldade em gerir agendamentos simultâneos, levando a erros de sistema por sobreposição de horários já preenchidos.
+
+**Falsa Esperança:** Enquanto usuario estava scrollando e procurando a loja, outra pessoa naquele momento já tinha confirmado o restaurante, essa lista de loja disponivel era apenas uma lista já carregada.
+
+**Modelo Antigo (Manual/Primeiros Esboços):** No método tradicional, o entregador tinha apenas "uma chance". Era necessário escolher um único restaurante e torcer para ser mais rápido que os outros 800 concorrentes. Caso a vaga fosse preenchida por outra pessoa, o tempo perdido na tentativa inviabilizava a busca por qualquer outra loja, resultando em um dia sem trabalho. 
+
+**🎥 Demonstração: O Agendamento Manual (Antes do Script)**
+
+[![Interface e Filtros do Protocoloco](https://img.youtube.com/vi/C0PNoNzyngI/0.jpg)](https://youtube.com/shorts/C0PNoNzyngI)
+
+Estes vídeos mostram a interface original e a tentativa de agendar vagas manualmente pelo telemóvel. Note a dificuldade em navegar pelas opções sob a pressão do tempo:
+Nesse video tem 3 exemplos, pode avançar aos poucos, no fim do video vai ver a tela gravada de cima.
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 **🎬 Demonstração Técnica: Modo Sniper em Ação**
